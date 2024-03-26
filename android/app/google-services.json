@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "947112594481",
+    "project_id": "medkit-pharmacy-90149",
+    "storage_bucket": "medkit-pharmacy-90149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947112594481:android:aa122805c0cbc0bd505910",
+        "android_client_info": {
+          "package_name": "com.example.medkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947112594481-a2poksqa1jitoj6a2qimoleg80dki8bm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medkit",
+            "certificate_hash": "a3debc4e3e37f35bcd156d8aeee63d695dfbc832"
+          }
+        },
+        {
+          "client_id": "947112594481-94gu24tl4n4rvhst8s1pnagkpos1gdcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACr02f0qdzMfxcGbd6w7qYYiIsMirjjh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947112594481-7ccit9e0o0en1rlepml3sgkj2g15muuf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947112594481-7q212lh9scu02e8tigi7vocfnnaf3bmg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medkit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
